@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Champaign in the Midwest. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Champaign, Illinois, US",
+  "export_job_id": "5843915a-8084-4604-82ef-129b5b78cbd6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 528568,
+  "location_name": "Champaign",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-champaign-illinois-us-sample-528568",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/528568/beamstation_528568_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 37,
+  "sample_sha256": "30f103f87c2212617d083f95978f0f51073048535dcadde272c3c66041048716",
+  "sample_size_bytes": 144329,
+  "total_records": 373,
+  "updated_at": "2026-04-07T12:17:12.229714+00:00"
+}
