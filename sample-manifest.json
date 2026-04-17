@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5843915a-8084-4604-82ef-129b5b78cbd6",
+  "export_job_id": "8389dfde-b0c9-4e62-8754-9970d4669835",
   "id_short": 528568,
-  "published_at": "2026-04-12T19:51:09Z",
+  "published_at": "2026-04-17T07:55:44Z",
   "repo_name": "all-restaurants-in-champaign-illinois-us-sample-528568",
   "sample_asset_name": "beamstation_528568_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/528568/beamstation_528568_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_records": 37,
-  "sample_sha256": "30f103f87c2212617d083f95978f0f51073048535dcadde272c3c66041048716",
-  "sample_size_bytes": 144329,
-  "total_records": 373
+  "sample_sha256": "30512af48734d585b0e04f43ddf7ce8a3e4fb04709f23519a6312a900e686388",
+  "sample_size_bytes": 142953,
+  "total_records": 370
 }
