@@ -9,9 +9,9 @@
 | Dataset ID | `528568` |
 | Location | Champaign |
 | Category | Restaurants |
-| Full dataset size | 373 records |
-| Free sample size | 37 records (9.92%) |
-| Last export | 2026-04-07T12:17:12.229714+00:00 |
+| Full dataset size | 370 records |
+| Free sample size | 37 records (10.0%) |
+| Last export | 2026-04-14T12:09:44.688778+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-champaign-illinois-us-sample-528568/releases/download/sample-latest/beamstation_528568_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
