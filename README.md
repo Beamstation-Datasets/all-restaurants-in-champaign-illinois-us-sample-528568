@@ -1,6 +1,6 @@
 # All Restaurants in Champaign, Illinois, US
 
-> Free BeamStation sample export with 35 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `528568` |
 | Location | Champaign |
 | Category | Restaurants |
-| Full dataset size | 359 records |
-| Free sample size | 35 records (9.75%) |
-| Last export | 2026-04-28T13:46:18.328894+00:00 |
+| Full dataset size | 374 records |
+| Free sample size | 37 records (9.89%) |
+| Last export | 2026-05-06T01:48:17.028808+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-champaign-illinois-us-sample-528568/releases/download/sample-latest/beamstation_528568_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
